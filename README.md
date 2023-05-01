@@ -9,6 +9,7 @@ I currently work as a software engineer at Alida. I'm particularly interested in
 * 🌍  I'm based in Vancouver, Canada
 * 🖥️  See my portfolio at [gokcedilek.com](http://gokcedilek.com/)
 * ✉️  You can contact me at [me@gokcedilek.com](mailto:me@gokcedilek.com)
+* 🤝  I'm open to collaborating on projects that have a positive educational, social, or environmental impact!
 
 ### Skills
 
