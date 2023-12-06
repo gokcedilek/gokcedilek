@@ -1,7 +1,7 @@
 Hi 👋 My name is Gökçe Dilek
 ============================
 
-Software Engineer at Alida
+Software Engineer
 --------------------------
 
 I currently work as a software engineer at Alida. I'm particularly interested in backend web development, cloud computing, microservices, distributed systems and system design.
